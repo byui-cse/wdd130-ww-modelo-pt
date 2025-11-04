@@ -1,2 +1,2 @@
-# WDD 130 Starting Template Repository
-This repository is a starting template for students in WDD 130.
+# Repositório do Modelo Inicial de WDD 130
+Este repositório é um modelo inicial para os estudantes do curso WDD 130.
