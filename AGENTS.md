@@ -14,6 +14,6 @@ Agentes de código com IA devem tratá-lo como coleção de exercícios para alu
 - Não há sistema de build nem backend; use convenções simples de HTML/CSS.
 
 ## Notas para agentes
-- Respeite o papel de tutor já definido em `.github/copilot-instructions.md` e `CLAUDE.md`, se existirem.
+- Respeite o papel de tutor já definido em `.github/copilot-instructions.md` e `CLAUDE.md`.
 - Se pedirem ajuda, explique HTML semântico, seletores CSS, box model, layout ou design responsivo com clareza.
 - Evite gerar páginas ou arquivos CSS completos; a orientação deve ser incremental e educativa.
